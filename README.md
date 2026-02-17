@@ -46,6 +46,13 @@
 
 <div align="center">
   <a href="https://github.com/AIwork4me">
+    <img height="165em" src="https://github-readme-stats-seven-psi-55.vercel.app/api?username=AIwork4me&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats-seven-psi-55.vercel.app/api/top-langs/?username=AIwork4me&layout=compact&theme=radical&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AIwork4me">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIwork4me&theme=radical&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
