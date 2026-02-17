@@ -12,8 +12,6 @@
 
 ---
 
-<div align="center">
-
 ### 🧠 AI & LLM
 
 <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -21,10 +19,6 @@
 <img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img alt="Claude" src="https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=claude&logoColor=white" />
 <img alt="GLM" src="https://img.shields.io/badge/-GLM-4285F4?style=flat-square&logo=google&logoColor=white" />
-
-</div>
-
-<div align="center">
 
 ### 🔧 Core Stack
 
@@ -34,10 +28,6 @@
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 
-</div>
-
-<div align="center">
-
 ### ☁️ Cloud & DevOps
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -45,8 +35,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-
-</div>
 
 ---
 
