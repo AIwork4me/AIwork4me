@@ -16,11 +16,11 @@
 
 ### 🧠 AI & LLM
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/OpenAI-1C3C3C?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Anthropic-1C3C3C?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
-<img src="https://img.shields.io/badge/Agent-1C3C3C?style=flat-square&logo=probot&logoColor=white" alt="Agent"/>
-<img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square&logo=databricks&logoColor=white" alt="RAG"/>
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/-Claude-CC785C?style=flat-square&logo=claude&logoColor=white" />
+<img alt="GLM" src="https://img.shields.io/badge/-GLM-4285F4?style=flat-square&logo=google&logoColor=white" />
 
 </div>
 
@@ -28,11 +28,11 @@
 
 ### 🔧 Core Stack
 
-<img src="https://img.shields.io/badge/Python-1C3C3C?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-1C3C3C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/FastAPI-1C3C3C?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Next.js-1C3C3C?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-1C3C3C?style=flat-square&logo=nodejs&logoColor=white" alt="Node.js"/>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 
 </div>
 
@@ -40,11 +40,11 @@
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://img.shields.io/badge/Docker-1C3C3C?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-1C3C3C?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/AWS-1C3C3C?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-1C3C3C?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Terraform-1C3C3C?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
 
 </div>
 
