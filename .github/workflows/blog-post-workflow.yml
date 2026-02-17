@@ -1,0 +1,58 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and render blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # ============================================
+          # RSS FEED CONFIGURATION
+          # ============================================
+          # Step 1: Enable RSS in your content platform
+          #   - WeChat Official Account: Use third-party RSS generator
+          #   - Zhihu (知乎): Profile page -> Settings -> Enable RSS
+          #   - Medium: https://medium.com/@your-username/feed
+          #   - Dev.to: https://dev.to/feed/your-username
+          #   - Personal Blog: /feed or /rss.xml
+          #
+          # Step 2: Replace the URL below with your RSS feed URL
+          # ============================================
+          feed_list: "https://medium.com/feed/@your-username"
+          # feed_list: "https://zhuanlan.zhihu.com/api/columns/your-column/feed"
+          # feed_list: "https://your-blog.com/rss.xml"
+
+          # Maximum number of posts to display
+          max_post_count: 5
+
+          # Template for each post item (GitHub flavored markdown)
+          # Available placeholders: $title, $url, $date, $description
+          template: "- [$title]($url)$newline> $date$newline$newline"
+
+          # Date format (moment.js format)
+          date_format: "YYYY-MM-DD"
+
+          # Commit message
+          commit_message: "docs: update latest blog posts [skip ci]"
+
+          # Filter settings (optional)
+          # filter_titles: "keyword1,keyword2"
+          # filter_descriptions: "tag1,tag2"
+
+          # Enable debugging (set to true for troubleshooting)
+          debug_mode: false
