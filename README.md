@@ -70,9 +70,21 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 📌 [两步搞定！在 Windows 上安装 Claude Code + GLM-5：告别封号，腰斩费用！](https://mp.weixin.qq.com/s/4IaWYsMlZkmoq0JpkmlzBw)
+- 📌 [别守办公桌了！三步用飞书远程 "遥控" OpenClaw](https://mp.weixin.qq.com/s/Cdzw2O2IoAk9pmbjOuUK5A)
 <!-- BLOG-POST-LIST:END -->
 
-> RSS feed integration pending. Activate by configuring your RSS source.
+</div>
+
+---
+
+<div align="center">
+
+### 📱 关注公众号
+
+<img src="aiwork4me.jpg" alt="AIwork4me 公众号二维码" width="200"/>
+
+**扫码关注「AI替我干活」获取更多 AI 实战技巧**
 
 </div>
 
