@@ -12,9 +12,11 @@
 
 ---
 
-### 🧠 AI & LLM
+### 🤖 Agent
 
 <p>
+<img alt="Dify" src="https://img.shields.io/badge/-Dify-5B5FC7?style=flat-square&logo=dify&logoColor=white" />
+<img alt="OpenClaw" src="https://img.shields.io/badge/-OpenClaw-FF6B35?style=flat-square&logo=claws-mail&logoColor=white" />
 <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img alt="Anthropic" src="https://img.shields.io/badge/-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
