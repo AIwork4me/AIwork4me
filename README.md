@@ -65,16 +65,12 @@
 
 ---
 
-<div align="center">
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - 📌 [两步搞定！在 Windows 上安装 Claude Code + GLM-5：告别封号，腰斩费用！](https://mp.weixin.qq.com/s/4IaWYsMlZkmoq0JpkmlzBw)
 - 📌 [别守办公桌了！三步用飞书远程 "遥控" OpenClaw](https://mp.weixin.qq.com/s/Cdzw2O2IoAk9pmbjOuUK5A)
 <!-- BLOG-POST-LIST:END -->
-
-</div>
 
 ---
 
