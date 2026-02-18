@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/AIwork4me/Awesome-Claude-Agent-Skills/main/aiwork4me.jpg" alt="AIwork4me" width="80" style="border-radius: 50%;" />
+# AIwork4me
 
 ### _2026 Industrial-Grade AI Productivity Matrix_
 
