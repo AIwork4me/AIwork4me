@@ -26,6 +26,7 @@
 | 🦾 **Atomic** | [Awesome-Claude-Agent-Skills](https://github.com/AIwork4me/Awesome-Claude-Agent-Skills) | **The Muscles** — MCP-compliant atomic skills | `Bun` `TypeScript` `MCP 2026` `Deep Agent` |
 | 🔗 **Orchestration** | [Awesome-Dify-Workflows](https://github.com/AIwork4me/Awesome-Dify-Workflows) | **The Nervous System** — Zero-code business blueprints | `Dify DSL` `Reflection Pattern` `Quality Gates` |
 | 🧠 **Infrastructure** | [Awesome-LangChain-Enterprise](https://github.com/AIwork4me/Awesome-LangChain-Enterprise) | **The Core Engine** — Cognitive resilience backbone | `LangGraph` `HITL` `LangSmith` `Stateful` |
+| 💎 **Visual** | [Awesome-Gemini-Visual-Gems](https://github.com/AIwork4me/awesome-gemini-visual-gems) | **The Canvas** — 15 battle-tested visual designer prompts | `Gemini` `Infographic` `Text-to-Visual` `V2.1 Template` |
 
 </div>
 
@@ -45,13 +46,20 @@ flowchart LR
         Graph["LangGraph<br/>(Stateful, Resumable)"]
     end
 
+    subgraph Visual["💎 Visual Layer"]
+        Gems["Gemini Gems<br/>(15 Visual Prompts)"]
+    end
+
     MCP -->|"Tool Calls"| Workflow
     Workflow -->|"Complex Logic"| Graph
     Graph -->|"Observability"| LangSmith["LangSmith<br/>Tracing"]
+    Workflow -->|"Content"| Gems
+    Gems -->|"Infographics"| Output["Visual Output"]
 
     style Skills fill:#FF6B35,color:#fff
     style Dify fill:#4A90D9,color:#fff
     style LangChain fill:#22C55E,color:#fff
+    style Visual fill:#8B5CF6,color:#fff
 ```
 
 ---
@@ -117,6 +125,7 @@ flowchart LR
 | 🦾 [Skill Factory](https://github.com/AIwork4me/Awesome-Claude-Agent-Skills) | MCP skills with 60-second scaffolding |
 | 🔗 [Workflow Blueprints](https://github.com/AIwork4me/Awesome-Dify-Workflows) | Production-ready Dify DSL workflows |
 | 🧠 [Cognitive Backbone](https://github.com/AIwork4me/Awesome-LangChain-Enterprise) | Enterprise LangGraph patterns |
+| 💎 [Visual Gems](https://github.com/AIwork4me/awesome-gemini-visual-gems) | 15 battle-tested Gemini visual prompts |
 | 📱 [WeChat OA](#-stay-connected) | Real-time tutorials & updates |
 
 </div>
