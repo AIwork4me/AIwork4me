@@ -4,7 +4,6 @@
 
 ### Stop working for AI. Start making it work for you.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF6B35&center=true&vCenter=true&width=600&lines=MCP+Skills+%C2%B7+Browser+Automation+%C2%B7+Agent+Orchestration;Let+AI+work+for+me." alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/AIwork4me-2026-FF6B35?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Skills-MCP_Compliant-4A90D9?style=for-the-badge&logo=puzzle&logoColor=white" />
