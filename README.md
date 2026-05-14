@@ -19,7 +19,7 @@
 |:--------|:-----------|:-----------|
 | [**clawmaster**](https://github.com/AIwork4me/clawmaster) | Control plane for OpenClaw. Guided setup wizard, 16 LLM providers, 6 channel types, PowerMem, ClawProbe. Desktop (Tauri) + self-hosted web. | `Tauri` `React` `Express` |
 | [**llm-wiki-desktop**](https://github.com/Aidenwu0209/llm-wiki-desktop) | Compile your documents into a local, linked, LLM-maintained wiki with a desktop-first workflow. | `Tauri` `React` `Rust` |
-| [**bb-browser**](https://github.com/AIwork4me/bb-browser) | Your browser is the API. CLI + MCP server for AI agents to control Chrome with your login state. 103 commands, 36 platforms. | `Node.js` `MCP` `CDP` |
+| [**ernie-image-skill**](https://github.com/AIwork4me/ernie-image-skill) | Claude Code skill for generating local PNG images with Baidu AI Studio ERNIE-Image models and Chinese prompt support. | `Python` `Claude Code Skill` `Baidu AI Studio` |
 | [**Awesome-Claude-Agent-Skills**](https://github.com/AIwork4me/Awesome-Claude-Agent-Skills) | Self-evolving ecosystem of MCP-compliant skills for Claude Code and AI agents. Self-Healing, Progress-Aware, Security-First. | `Bun` `TypeScript` `MCP` |
 
 ---
